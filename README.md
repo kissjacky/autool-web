@@ -1,7 +1,9 @@
 ## This Project aims to introduce autool JSON/DIFF/MD5/URLDECODE tools
 [中文版](README.zh.md)
 
-This project aims to introduce a developer tools website that pursues fast responsiveness, simplicity, and comprehensive functionality. It doesn't prioritize the quantity of tools but focuses on the exceptional usability of each tool. Currently, it includes features such as JSON formatting, JSON validation, text comparison, MD5 hashing, URL decoding, and more. Please visit: https://autool.info/
+This project aims to introduce a developer tools website that pursues fast responsiveness, simplicity, and comprehensive functionality. It doesn't prioritize the quantity of tools but focuses on the exceptional usability of each tool. Currently, it includes features such as:
+JSON formatting tool, JSON validation tool, text comparison tool, MD5 hashing generate tool, URL decoding tool, and more.
+Please visit: https://autool.info/
 
 ## Why build this site?
 
